@@ -1,4 +1,4 @@
-@php($title = "About Dr. Sunita Malladi | Top Radiologist in Navi Mumbai")
+@php($title = "About Dr. Sunita Malladi | first branch")
 @section('meta_desc')Learn more about Dr. Sunita Malladi, a highly experienced radiologist offering expert imaging diagnostics in Navi Mumbai.@endsection
 
 @extends('layouts.default')
